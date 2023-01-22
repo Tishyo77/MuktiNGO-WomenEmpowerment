@@ -7,7 +7,7 @@ body
     overflow: hidden;
     font-family: 'Oswald', sans-serif;
     overflow-x: auto;
-    overflow-y: hidden;
+    overflow-y: auto;
     white-space: nowrap;
 }
 
