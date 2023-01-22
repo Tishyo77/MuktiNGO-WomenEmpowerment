@@ -1,0 +1,65 @@
+.frame1
+{
+    left: 530px;
+    bottom: 353px;
+    position: relative;
+    width: 359px;
+    height: 260px;
+    padding: 6px;
+    background: rgb(255, 255, 255);
+    margin: 80px auto;
+}
+
+.shadow-top1
+{
+    position: absolute;
+    left: -50px;
+    width: 0;
+    height: 0;
+    border-bottom: 247px solid #bbb;
+    border-left: 50px solid transparent;
+}
+
+.shadow-bottom1
+{
+    position: absolute;
+    left: -50px;
+    bottom: 0;
+    width: 0;
+    height: 0;
+    border-top: 20px solid #aaa;
+    border-left: 50px solid transparent;
+}
+
+.canvas1
+{
+    bottom: 0px;
+    position: relative;
+    padding: 30px;
+    width: 300px;
+    height: 200px;
+    background: #e3e3e3;
+}
+
+.head1
+{
+    position: absolute;
+    bottom: 200px;
+    right: 225px;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 65px;
+    padding-top: 0px;
+}
+
+.text1
+{
+    position: absolute;
+    top: 50px;
+    right: 30px;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 30px;
+    padding-top: 0px;
+}
